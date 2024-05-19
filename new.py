@@ -4,7 +4,7 @@ from google.oauth2.service_account import Credentials
 import pandas as pd
 
 # Path to your credentials file
-credentials_file = "C:\\Users\\ENVY\\.streamlit\\inventoryentry-380f630ca6cb.json"
+credentials_file = "inventoryentry-380f630ca6cb.json"
 
 # Define the scope
 scope = ["https://spreadsheets.google.com/feeds",
