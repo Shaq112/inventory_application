@@ -1,0 +1,10 @@
+pandas
+gspread
+streamlit
+scipy.stats
+csv
+matplotlib.pyplot
+statistics
+treamlit_option_menu
+streamlit_gsheets
+oauth2client.service_account
